@@ -1,6 +1,6 @@
 # CT-Companion
 
-This is an iOS companion app to [4Q Credit Card](https://github.com/yihan-us/4Q-Credit-Card) app, please make sure you have 4Q Credit Card app installed.
+This is an iOS companion app to [4Q Credit Card](https://github.com/tonyxu-io/4Q-Credit-Card) app, please make sure you have 4Q Credit Card app installed.
 
 When user tap on "Online Support", he will be jumpped to this app to chat with an agent.
 
